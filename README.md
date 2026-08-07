@@ -2,6 +2,10 @@
 
 # 🎯 IconVault — The Emoji Asset Delivery Platform
 
+<!-- hy-mt2-i18n:start -->
+**English** · [中文](./README_zh-CN.md) · [日本語](./README_ja.md) · [Español](./README_es.md)
+<!-- hy-mt2-i18n:end -->
+
 In today's hyper-connected digital ecosystem, emojis have evolved from playful embellishments into essential communication tools. Yet, managing and delivering emoji assets at scale remains a fragmented challenge for developers, designers, and content creators. **IconVault** solves this by offering a centralized, high-performance content delivery network (CDN) specifically architected for emoji images, icons, and sticker assets. Think of it as a dedicated asset reservoir—not just a storage bucket, but a fully orchestrated delivery system that ensures your applications always display the exact emoji variant, style, and resolution your users need. This repository serves as the foundational asset store, the visual vocabulary for modern digital expression.
 
 ---
